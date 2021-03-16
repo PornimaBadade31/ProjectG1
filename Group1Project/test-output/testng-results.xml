@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-16T16:18:36 IST" name="Default suite" finished-at="2021-03-16T16:19:38 IST" duration-ms="62167">
+    <groups>
+    </groups>
+    <test started-at="2021-03-16T16:18:36 IST" name="Default test" finished-at="2021-03-16T16:19:38 IST" duration-ms="62167">
+      <class name="com.test.AttachmentsTest">
+        <test-method is-config="true" signature="beforeSuite(java.lang.String)[pri:0, instance:com.test.AttachmentsTest@66498326]" started-at="2021-03-16T16:18:32 IST" name="beforeSuite" finished-at="2021-03-16T16:18:36 IST" duration-ms="3388" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[./ChromeDriver/chromedriver.exe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="getlogger()[pri:0, instance:com.test.AttachmentsTest@66498326]" started-at="2021-03-16T16:18:36 IST" name="getlogger" finished-at="2021-03-16T16:18:36 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getlogger -->
+        <test-method signature="TC1(java.lang.String, java.lang.String)[pri:0, instance:com.test.AttachmentsTest@66498326]" started-at="2021-03-16T16:18:36 IST" name="TC1" finished-at="2021-03-16T16:18:59 IST" duration-ms="22580" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://dobby.qatouch.com/project/attachment/p/NgZv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[./AutoIT/upload4.exe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method signature="TC2(java.lang.String, java.lang.String)[pri:0, instance:com.test.AttachmentsTest@66498326]" started-at="2021-03-16T16:18:59 IST" name="TC2" finished-at="2021-03-16T16:19:12 IST" duration-ms="13755" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://dobby.qatouch.com/project/attachment/p/NgZv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[./AutoIT/upload4.exe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method signature="TC3(java.lang.String, java.lang.String)[pri:0, instance:com.test.AttachmentsTest@66498326]" started-at="2021-03-16T16:19:12 IST" name="TC3" finished-at="2021-03-16T16:19:25 IST" duration-ms="12757" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://dobby.qatouch.com/project/attachment/p/NgZv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[./AutoIT/upload4.exe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method signature="TC4(java.lang.String, java.lang.String)[pri:0, instance:com.test.AttachmentsTest@66498326]" started-at="2021-03-16T16:19:25 IST" name="TC4" finished-at="2021-03-16T16:19:38 IST" duration-ms="12886" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://dobby.qatouch.com/project/attachment/p/NgZv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[./AutoIT/upload4.exe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4 -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.test.AttachmentsTest@66498326]" started-at="2021-03-16T16:19:38 IST" name="afterSuite" finished-at="2021-03-16T16:19:38 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.test.AttachmentsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

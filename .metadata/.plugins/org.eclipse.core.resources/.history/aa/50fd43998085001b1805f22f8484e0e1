@@ -1,0 +1,17 @@
+package com.page;
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+
+import Log.Log;
+
+public class logout
+{
+	
+	private static Logger Log = Logger.getLogger(Log.class.getName());//
+	public static void main(String args[])
+	{
+		Log.info("hello");
+	    PropertyConfigurator.configure(configFilename);
+
+	}
+}

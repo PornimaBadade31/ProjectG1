@@ -1,0 +1,26 @@
+package com.page;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class logout {
+	 static WebDriver driver;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\HP\\Documents\\chromedriver.exe");
+	    driver = new ChromeDriver();
+		AttachmentsPage p1=new AttachmentsPage(driver);
+		driver.get("https://snoopy.qatouch.com/project/attachment/p/vEPp");
+		try {
+			p1.login();
+			p1.logout();
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+
+	}
+
+}

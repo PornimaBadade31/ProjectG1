@@ -1,0 +1,87 @@
+package com.page;
+import java.awt.AWTException;
+import java.awt.Robot;
+import java.awt.event.KeyEvent;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.Select;
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Test;
+
+import com.opencsv.CSVReader;
+
+import java.util.Collection;
+import java.util.List;
+public class AttachmentsPage {
+	static WebDriver driver;
+
+	
+	public AttachmentsPage(WebDriver driver2) {
+		this.driver=driver2;
+
+	}
+	public void OpenURL(String url)
+	{
+		driver.get(url);
+	}
+	public static void login() throws InterruptedException
+	{
+		  WebElement ele1=driver.findElement(By.id("email"));
+		  WebElement ele2=driver.findElement(By.id("password"));
+		  ele1.sendKeys("pvbadade@gmail.com");
+		  ele2.sendKeys("Abcde@123");
+		  WebElement ele3=driver.findElement(By.xpath("//button[@type='submit']"));
+		  Thread.sleep(2000);
+
+		  ele3.click();
+		  Thread.sleep(2000);
+
+	}
+	public static void openattAchmentpage()
+	{
+		java.util.List<WebElement> l=driver.findElements(By.className("card-body"));
+		l.get(1).click();
+		WebElement e=driver.findElement(By.xpath("//*[contains(text(), 'Attachments')]"));
+		e.click();
+		
+	}
+	public static void upload(String path) throws AWTException, IOException, InterruptedException {
+
+			
+		  java.util.List<WebElement> l=driver.findElements(By.xpath("//*[contains(text(), 'Upload')]"));
+		  Thread.sleep(2000);
+		  l.get(1).click();
+		  Thread.sleep(2000);
+	      Runtime.getRuntime().exec("C:\\Users\\HP\\Documents\\upload4.exe"+" "+path);
+	      Thread.sleep(2000);
+	      WebElement e=driver.findElement(By.className("toast"));
+	      
+		  
+	  }
+	public static void logout()
+	{
+		WebElement e=driver.findElement(By.xpath("/html/body/div[1]/div/nav/div/div[1]/ul[2]/li[4]/a/i"));
+		e.click();
+		try {
+			Thread.sleep(2000);
+		} catch (InterruptedException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		WebElement logout=driver.findElement(By.xpath("/html/body/div[1]/div/nav/div/div[1]/ul[2]/li[4]/div/div[2]/a\r\n"
+			+ ""));
+		e.click();
+		
+	}
+}

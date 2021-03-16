@@ -1,0 +1,86 @@
+enum			Enum		         Enumeration
+
+Keyword			 Class		             Interface
+
+Used to define 	      Present in java.lang package.	      Present in java.util package
+a group of named	      Every enum is direct child of	     
+constants		             this class
+
+
+Syntax:
+
+enum Name
+{
+Constants;
+}
+
+eg:
+enum Months
+{
+JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC;
+}
+
+enum Seasons		--> 	class Season
+{			{
+WINTER,SUMMER,FALL		public static final Season WINTER=New Season(0);
+}				}
+
+Rule 1:
+In addition to constants if I'm using any other variables/methods ";" is mandatory.
+Rule 2:
+In addition to constants, any extra member should not be written first.
+eg: 
+enum Fish{
+STAR,
+GOLD;
+public void method()
+{
+}
+}
+
+Note- enum is by default public static final as there are constants 
+
+Purpose-
+Define our own data types (Enumerated data types)
+
+*Explain Color
+*Explain AccessEnum and toString method
+
+Valid :
+1.class X{		
+enum Y	->private,protected,static,public,default modifiers
+{		            
+}
+}
+
+2.enum X{}   ->public and default modifiers
+class Y{
+}
+
+Invalid: enum types must not be local
+class X{
+public static void main(String[] args)
+{
+enum Y{
+}
+}
+}
+
+Methods:
+values() - *Explain ParticularValue
+ordinal()- *Explain Test3
+
+enum vs Switch
+*explain Test
+
+enum vs Constructor
+*explain Test2
+
+enum vs Inheritence
+Explicitly inheritence concept is not used because Multiple inheritence is not allowed
+extends keyword is not allowed - enum types are not extensible
+
+Valid:
+interface X{}
+enum Y implements X{}
+*Explain Test enums

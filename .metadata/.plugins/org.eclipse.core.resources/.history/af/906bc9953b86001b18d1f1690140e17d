@@ -1,0 +1,19 @@
+package com.page;
+
+import org.openqa.selenium.WebDriver;
+
+public class BoardPage {
+	
+	static WebDriver driver;
+	public BoardPage(WebDriver driver2) {
+		this.driver=driver2;
+
+	}
+	public void OpenURL(String url)
+	{
+		driver.manage().window().maximize();
+
+		driver.get(url);
+	}
+
+}

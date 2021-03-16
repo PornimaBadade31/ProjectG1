@@ -1,0 +1,18 @@
+package com.page;
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+
+import Log.Log;
+
+public class logout
+{
+	static String configFilename="C:\\Users\\HP\\Documents\\persi eltp\\ProjectG1\\Group1Project\\log4j.properties";
+	public static void getlogger()
+	{
+	    PropertyConfigurator.configure(configFilename);
+
+	}
+	public void testLogger() {
+		getlogger();
+	}
+}

@@ -1,0 +1,23 @@
+package com.page;
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+import org.testng.annotations.BeforeClass;
+
+import Log.Log;
+
+public class logout
+{
+	static String configFilename="C:\\Users\\HP\\Documents\\persi eltp\\ProjectG1\\Group1Project\\log4j.properties";
+	private static Logger logger = Logger.getLogger(logout.class.getName());//
+	@BeforeClass
+	public static void getlogger()
+	{
+	    PropertyConfigurator.configure(configFilename);
+
+	}
+	@Test
+	public void testLogger() {
+		getlogger();
+		logger.info("my one ");
+	}
+}

@@ -1,0 +1,246 @@
+
+2021-03-15 17:03:549 INFO  AttachmentsTest:40 - my one----------- 
+2021-03-15 17:03:234 INFO  AttachmentsTest:39 - my one----------- 
+2021-03-15 18:03:148 INFO  AttachmentsTest:38 - Test case 1
+2021-03-15 18:03:503 INFO  AttachmentsTest:46 - Logging In
+2021-03-15 18:03:508 INFO  AttachmentsTest:57 - Reading document path from csv file
+2021-03-15 18:03:695 INFO  AttachmentsTest:60 - .Docx file uploaded
+2021-03-15 18:03:702 INFO  AttachmentsTest:75 - Test case 2
+2021-03-15 18:03:977 INFO  AttachmentsTest:84 - Read data from csv file
+2021-03-15 18:03:978 INFO  AttachmentsTest:88 - uploading txt file
+2021-03-15 18:03:173 INFO  AttachmentsTest:91 - .txt file uploaded
+2021-03-15 18:03:182 INFO  AttachmentsTest:106 - Test case 3
+2021-03-15 18:03:611 INFO  AttachmentsTest:115 - reading file path from csv file
+2021-03-15 18:03:612 INFO  AttachmentsTest:119 - uploading file
+2021-03-15 18:03:797 INFO  AttachmentsTest:122 - .ppt file uploaded
+2021-03-15 18:03:815 INFO  AttachmentsTest:137 - Test case 4
+2021-03-15 18:03:152 INFO  AttachmentsTest:146 - reading file path from csv file
+2021-03-15 18:03:152 INFO  AttachmentsTest:150 - uploading file
+2021-03-15 18:03:336 INFO  AttachmentsTest:153 - .png file uploaded 
+2021-03-15 18:03:408 INFO  AttachmentsTest:39 - Test case 1
+2021-03-15 18:03:04 INFO  AttachmentsTest:47 - Logging In
+2021-03-15 18:03:11 INFO  AttachmentsTest:58 - Reading document path from csv file
+2021-03-15 18:03:35 INFO  AttachmentsTest:77 - Test case 2
+2021-03-15 18:03:162 INFO  AttachmentsTest:86 - Read data from csv file
+2021-03-15 18:03:163 INFO  AttachmentsTest:90 - uploading txt file
+2021-03-15 18:03:450 INFO  AttachmentsTest:109 - Test case 3
+2021-03-15 18:03:626 INFO  AttachmentsTest:141 - Test case 4
+2021-03-15 18:03:433 INFO  AttachmentsTest:39 - Test case 1
+2021-03-15 18:03:447 INFO  AttachmentsTest:47 - Logging In
+2021-03-15 18:03:466 INFO  AttachmentsTest:58 - Reading document path from csv file
+2021-03-15 18:03:632 INFO  AttachmentsTest:61 - .Docx file uploaded
+2021-03-15 18:03:640 INFO  AttachmentsTest:77 - Test case 2
+2021-03-15 18:03:913 INFO  AttachmentsTest:86 - Read data from csv file
+2021-03-15 18:03:914 INFO  AttachmentsTest:90 - uploading txt file
+2021-03-15 18:03:128 INFO  AttachmentsTest:93 - .txt file uploaded
+2021-03-15 18:03:147 INFO  AttachmentsTest:109 - Test case 3
+2021-03-15 18:03:220 INFO  AttachmentsTest:118 - reading file path from csv file
+2021-03-15 18:03:221 INFO  AttachmentsTest:122 - uploading file
+2021-03-15 18:03:417 INFO  AttachmentsTest:125 - .ppt file uploaded
+2021-03-15 18:03:436 INFO  AttachmentsTest:141 - Test case 4
+2021-03-15 18:03:672 INFO  AttachmentsTest:150 - reading file path from csv file
+2021-03-15 18:03:673 INFO  AttachmentsTest:154 - uploading file
+2021-03-15 18:03:887 INFO  AttachmentsTest:157 - .png file uploaded 
+2021-03-16 10:03:754 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:403 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:746 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:944 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:459 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:280 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:16 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:435 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:32 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:197 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:987 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:192 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:214 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:71 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:212 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:644 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:77 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:739 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:998 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:00 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 10:03:313 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:161 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:694 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:254 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:460 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:514 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:615 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:370 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:615 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:992 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:786 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:959 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:465 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:406 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:735 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:372 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:605 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:473 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:813 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:384 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:74 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 11:03:14 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 12:03:228 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 12:03:288 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 12:03:430 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 13:03:631 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 13:03:325 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 13:03:688 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 13:03:314 INFO  AttachmentsTest:37 - Test case 1
+2021-03-16 13:03:353 INFO  AttachmentsTest:45 - Logging In
+2021-03-16 13:03:397 INFO  AttachmentsTest:54 - Reading document path from csv file
+2021-03-16 13:03:968 INFO  AttachmentsTest:37 - Test case 1
+2021-03-16 13:03:286 INFO  AttachmentsTest:45 - Logging In
+2021-03-16 13:03:290 INFO  AttachmentsTest:54 - Reading document path from csv file
+2021-03-16 13:03:413 INFO  AttachmentsTest:72 - Test case 2
+2021-03-16 13:03:458 INFO  AttachmentsTest:81 - Read data from csv file
+2021-03-16 13:03:470 INFO  AttachmentsTest:85 - uploading txt file
+2021-03-16 13:03:606 INFO  AttachmentsTest:102 - Test case 3
+2021-03-16 13:03:192 INFO  AttachmentsTest:111 - reading file path from csv file
+2021-03-16 13:03:195 INFO  AttachmentsTest:115 - uploading file
+2021-03-16 13:03:330 INFO  AttachmentsTest:132 - Test case 4
+2021-03-16 13:03:335 INFO  AttachmentsTest:141 - reading file path from csv file
+2021-03-16 13:03:335 INFO  AttachmentsTest:145 - uploading file
+2021-03-16 13:03:994 INFO  AttachmentsTest:37 - Test case 1
+2021-03-16 13:03:119 INFO  AttachmentsTest:45 - Logging In
+2021-03-16 13:03:119 INFO  AttachmentsTest:54 - Reading document path from csv file
+2021-03-16 13:03:275 INFO  AttachmentsTest:57 - .Docx file uploaded
+2021-03-16 13:03:290 INFO  AttachmentsTest:72 - Test case 2
+2021-03-16 13:03:908 INFO  AttachmentsTest:81 - Read data from csv file
+2021-03-16 13:03:909 INFO  AttachmentsTest:85 - uploading txt file
+2021-03-16 13:03:168 INFO  AttachmentsTest:88 - .txt file uploaded
+2021-03-16 13:03:197 INFO  AttachmentsTest:102 - Test case 3
+2021-03-16 13:03:770 INFO  AttachmentsTest:111 - reading file path from csv file
+2021-03-16 13:03:771 INFO  AttachmentsTest:115 - uploading file
+2021-03-16 13:03:16 INFO  AttachmentsTest:118 - .ppt file uploaded
+2021-03-16 13:03:33 INFO  AttachmentsTest:132 - Test case 4
+2021-03-16 13:03:882 INFO  AttachmentsTest:141 - reading file path from csv file
+2021-03-16 13:03:885 INFO  AttachmentsTest:145 - uploading file
+2021-03-16 13:03:131 INFO  AttachmentsTest:148 - .png file uploaded 
+2021-03-16 13:03:716 INFO  AttachmentsTest:37 - Test case 1
+2021-03-16 13:03:222 INFO  AttachmentsTest:37 - Test case 1
+2021-03-16 13:03:358 INFO  AttachmentsTest:45 - Logging In
+2021-03-16 13:03:363 INFO  AttachmentsTest:54 - Reading document path from csv file
+2021-03-16 13:03:929 INFO  AttachmentsTest:57 - .Docx file uploaded
+2021-03-16 13:03:944 INFO  AttachmentsTest:72 - Test case 2
+2021-03-16 13:03:867 INFO  AttachmentsTest:81 - Read data from csv file
+2021-03-16 13:03:868 INFO  AttachmentsTest:85 - uploading txt file
+2021-03-16 13:03:213 INFO  AttachmentsTest:88 - .txt file uploaded
+2021-03-16 13:03:222 INFO  AttachmentsTest:102 - Test case 3
+2021-03-16 13:03:501 INFO  AttachmentsTest:111 - reading file path from csv file
+2021-03-16 13:03:504 INFO  AttachmentsTest:115 - uploading file
+2021-03-16 13:03:732 INFO  AttachmentsTest:118 - .ppt file uploaded
+2021-03-16 13:03:748 INFO  AttachmentsTest:132 - Test case 4
+2021-03-16 13:03:498 INFO  AttachmentsTest:141 - reading file path from csv file
+2021-03-16 13:03:499 INFO  AttachmentsTest:145 - uploading file
+2021-03-16 13:03:682 INFO  AttachmentsTest:148 - .png file uploaded 
+2021-03-16 13:03:390 INFO  AttachmentsTest:37 - Test case 1
+2021-03-16 13:03:181 INFO  AttachmentsTest:45 - Logging In
+2021-03-16 13:03:184 INFO  AttachmentsTest:54 - Reading document path from csv file
+2021-03-16 13:03:335 INFO  AttachmentsTest:57 - .Docx file uploaded
+2021-03-16 13:03:364 INFO  AttachmentsTest:72 - Test case 2
+2021-03-16 13:03:632 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 13:03:853 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 13:03:868 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 13:03:205 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 13:03:890 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 13:03:55 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 13:03:845 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 14:03:199 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 14:03:127 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 14:03:375 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 14:03:80 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 14:03:677 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 14:03:660 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 14:03:325 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 14:03:677 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 14:03:419 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 14:03:417 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 14:03:355 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 14:03:106 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 14:03:283 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 14:03:984 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 14:03:254 INFO  AttachmentsTest:37 - Test case 1
+2021-03-16 14:03:642 INFO  AttachmentsTest:45 - Logging In
+2021-03-16 14:03:671 INFO  AttachmentsTest:54 - Reading document path from csv file
+2021-03-16 14:03:747 INFO  AttachmentsTest:72 - Test case 2
+2021-03-16 14:03:453 INFO  AttachmentsTest:81 - Read data from csv file
+2021-03-16 14:03:455 INFO  AttachmentsTest:85 - uploading txt file
+2021-03-16 14:03:488 INFO  AttachmentsTest:102 - Test case 3
+2021-03-16 14:03:927 INFO  AttachmentsTest:111 - reading file path from csv file
+2021-03-16 14:03:928 INFO  AttachmentsTest:115 - uploading file
+2021-03-16 14:03:965 INFO  AttachmentsTest:132 - Test case 4
+2021-03-16 14:03:358 INFO  AttachmentsTest:141 - reading file path from csv file
+2021-03-16 14:03:367 INFO  AttachmentsTest:145 - uploading file
+2021-03-16 14:03:742 INFO  AttachmentsTest:37 - Test case 1
+2021-03-16 14:03:997 INFO  AttachmentsTest:45 - Logging In
+2021-03-16 14:03:998 INFO  AttachmentsTest:54 - Reading document path from csv file
+2021-03-16 14:03:34 INFO  AttachmentsTest:72 - Test case 2
+2021-03-16 14:03:597 INFO  AttachmentsTest:81 - Read data from csv file
+2021-03-16 14:03:598 INFO  AttachmentsTest:85 - uploading txt file
+2021-03-16 14:03:638 INFO  AttachmentsTest:102 - Test case 3
+2021-03-16 14:03:31 INFO  AttachmentsTest:111 - reading file path from csv file
+2021-03-16 14:03:32 INFO  AttachmentsTest:115 - uploading file
+2021-03-16 14:03:55 INFO  AttachmentsTest:132 - Test case 4
+2021-03-16 14:03:374 INFO  AttachmentsTest:141 - reading file path from csv file
+2021-03-16 14:03:375 INFO  AttachmentsTest:145 - uploading file
+2021-03-16 14:03:693 INFO  AttachmentsTest:37 - Test case 1
+2021-03-16 14:03:22 INFO  AttachmentsTest:45 - Logging In
+2021-03-16 14:03:24 INFO  AttachmentsTest:54 - Reading document path from csv file
+2021-03-16 14:03:114 INFO  AttachmentsTest:72 - Test case 2
+2021-03-16 14:03:611 INFO  AttachmentsTest:81 - Read data from csv file
+2021-03-16 14:03:612 INFO  AttachmentsTest:85 - uploading txt file
+2021-03-16 14:03:667 INFO  AttachmentsTest:102 - Test case 3
+2021-03-16 14:03:58 INFO  AttachmentsTest:111 - reading file path from csv file
+2021-03-16 14:03:59 INFO  AttachmentsTest:115 - uploading file
+2021-03-16 14:03:124 INFO  AttachmentsTest:132 - Test case 4
+2021-03-16 14:03:440 INFO  AttachmentsTest:141 - reading file path from csv file
+2021-03-16 14:03:441 INFO  AttachmentsTest:145 - uploading file
+2021-03-16 14:03:952 INFO  AttachmentsTest:37 - Test case 1
+2021-03-16 14:03:871 INFO  AttachmentsTest:45 - Logging In
+2021-03-16 14:03:872 INFO  AttachmentsTest:54 - Reading document path from csv file
+2021-03-16 14:03:911 INFO  AttachmentsTest:72 - Test case 2
+2021-03-16 14:03:407 INFO  AttachmentsTest:81 - Read data from csv file
+2021-03-16 14:03:410 INFO  AttachmentsTest:85 - uploading txt file
+2021-03-16 14:03:435 INFO  AttachmentsTest:102 - Test case 3
+2021-03-16 14:03:841 INFO  AttachmentsTest:111 - reading file path from csv file
+2021-03-16 14:03:843 INFO  AttachmentsTest:115 - uploading file
+2021-03-16 14:03:873 INFO  AttachmentsTest:132 - Test case 4
+2021-03-16 14:03:424 INFO  AttachmentsTest:141 - reading file path from csv file
+2021-03-16 14:03:425 INFO  AttachmentsTest:145 - uploading file
+2021-03-16 14:03:827 INFO  AttachmentsTest:37 - Test case 1
+2021-03-16 14:03:382 INFO  AttachmentsTest:45 - Logging In
+2021-03-16 14:03:383 INFO  AttachmentsTest:54 - Reading document path from csv file
+2021-03-16 14:03:17 INFO  AttachmentsTest:57 - .Docx file uploaded
+2021-03-16 14:03:26 INFO  AttachmentsTest:72 - Test case 2
+2021-03-16 14:03:251 INFO  AttachmentsTest:81 - Read data from csv file
+2021-03-16 14:03:252 INFO  AttachmentsTest:85 - uploading txt file
+2021-03-16 14:03:526 INFO  AttachmentsTest:37 - Test case 1
+2021-03-16 14:03:02 INFO  AttachmentsTest:45 - Logging In
+2021-03-16 14:03:05 INFO  AttachmentsTest:54 - Reading document path from csv file
+2021-03-16 14:03:199 INFO  AttachmentsTest:57 - .Docx file uploaded
+2021-03-16 14:03:211 INFO  AttachmentsTest:72 - Test case 2
+2021-03-16 14:03:95 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 14:03:896 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 15:03:885 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 16:03:285 INFO  AttachmentsTest:37 - Test case 1
+2021-03-16 16:03:417 INFO  AttachmentsTest:45 - Logging In
+2021-03-16 16:03:424 INFO  AttachmentsTest:54 - Reading document path from csv file
+2021-03-16 16:03:769 INFO  AttachmentsTest:57 - .Docx file uploaded
+2021-03-16 16:03:780 INFO  AttachmentsTest:72 - Test case 2
+2021-03-16 16:03:343 INFO  AttachmentsTest:81 - Read data from csv file
+2021-03-16 16:03:344 INFO  AttachmentsTest:85 - uploading txt file
+2021-03-16 16:03:601 INFO  AttachmentsTest:88 - .txt file uploaded
+2021-03-16 16:03:611 INFO  AttachmentsTest:102 - Test case 3
+2021-03-16 16:03:777 INFO  AttachmentsTest:111 - reading file path from csv file
+2021-03-16 16:03:778 INFO  AttachmentsTest:115 - uploading file
+2021-03-16 16:03:961 INFO  AttachmentsTest:118 - .ppt file uploaded
+2021-03-16 16:03:978 INFO  AttachmentsTest:132 - Test case 4
+2021-03-16 16:03:85 INFO  AttachmentsTest:141 - reading file path from csv file
+2021-03-16 16:03:87 INFO  AttachmentsTest:145 - uploading file
+2021-03-16 16:03:288 INFO  AttachmentsTest:148 - .png file uploaded 
+2021-03-16 16:03:482 INFO  AttachmentsTest:26 - Test case 5
+2021-03-16 16:03:319 INFO  AttachmentsTest:26 - Test case 5

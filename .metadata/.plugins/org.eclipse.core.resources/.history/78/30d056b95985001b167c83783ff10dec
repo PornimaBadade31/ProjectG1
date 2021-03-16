@@ -1,0 +1,51 @@
+package com.test;
+
+import org.testng.annotations.Test;
+
+import com.pages.Chapter1;
+import com.pages.HomePage;
+
+import org.testng.annotations.BeforeSuite;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterSuite;
+
+public class Test1 {
+    static WebDriver driver;
+	static String url="http://book.theautomatedtester.co.uk/";
+  @Test
+  public void testChapter1() throws InterruptedException {
+	  HomePage H1 = new HomePage(driver);
+	  H1.OpenURL(url);
+	  H1.clickChapter1();
+	  Chapter1 ch1=new Chapter1(driver);
+	  ch1.verifyChapter1PageTitle();
+	  ch1.selectRadioBtn();
+	  ch1.selectDropdown(3);
+	  ch1.assertText();
+	  ch1.loadAjax();
+	  ch1.verifyButton();
+	  ch1.loadText();
+	  ch1.testEditBox();
+	  ch1.goToHomePage();
+  }
+  @Test
+  public void testChapter2() throws InterruptedException {
+	  
+	  
+  }
+  
+  @BeforeSuite
+  public void beforeSuite() {
+      System.setProperty("webdriver.chrome.driver", "C:\\Users\\HP\\Documents\\chromedriver.exe");
+       driver = new ChromeDriver();
+       
+  }
+
+  @AfterSuite
+  public void afterSuite() {
+      driver.close();
+  }
+  
+
+}

@@ -1,0 +1,119 @@
+
+2020-10-09 14:52:23,130 INFO  [Log] Navigating to the http://localhost/mantisbt/mantisbt-2.24.1/login_page.php 
+2020-10-09 14:52:23,915 INFO  [Log] Entering usernameadministrator 
+2020-10-09 14:52:24,026 INFO  [Log] Username entered 
+2020-10-09 14:52:24,026 INFO  [Log] Clicking on Login button 
+2020-10-09 14:52:24,540 INFO  [Log] Login Button clicked 
+2020-10-09 14:52:24,542 INFO  [Log] Entering the passwordroot123 
+2020-10-09 14:52:24,617 INFO  [Log] PAssword Entered 
+2020-10-09 14:52:24,617 INFO  [Log] Clicking on Login button 
+2020-10-09 14:52:25,832 INFO  [Log] Login Button clicked 
+2020-10-09 14:52:26,079 INFO  [Log] Browser Closed! 
+2020-10-09 14:55:34,920 INFO  [Log] Navigating to the site -http://localhost/mantisbt/mantisbt-2.24.1/login_page.php 
+2020-10-09 14:55:35,617 INFO  [Log] Entering username.administrator 
+2020-10-09 14:55:35,705 INFO  [Log] Username entered 
+2020-10-09 14:55:35,705 INFO  [Log] Clicking on Login button 
+2020-10-09 14:55:36,161 INFO  [Log] Login Button clicked 
+2020-10-09 14:55:36,162 INFO  [Log] Entering the password root123 
+2020-10-09 14:55:36,229 INFO  [Log] PAssword Entered 
+2020-10-09 14:55:36,229 INFO  [Log] Clicking on Login button 
+2020-10-09 14:55:37,188 INFO  [Log] Login Button clicked 
+2020-10-09 14:55:37,369 INFO  [Log] Browser Closed! 
+2020-10-09 14:56:24,809 INFO  [Log] ***************************************************** 
+2020-10-09 14:56:24,809 INFO  [Log] Navigating to the site -http://localhost/mantisbt/mantisbt-2.24.1/login_page.php 
+2020-10-09 14:56:25,399 INFO  [Log] Entering username.administrator 
+2020-10-09 14:56:25,470 INFO  [Log] Username entered 
+2020-10-09 14:56:25,470 INFO  [Log] Clicking on Login button 
+2020-10-09 14:56:25,916 INFO  [Log] Login Button clicked 
+2020-10-09 14:56:25,918 INFO  [Log] Entering the password root123 
+2020-10-09 14:56:25,962 INFO  [Log] PAssword Entered 
+2020-10-09 14:56:25,962 INFO  [Log] Clicking on Login button 
+2020-10-09 14:56:26,746 INFO  [Log] Login Button clicked 
+2020-10-09 14:56:26,746 INFO  [Log] ***************************************************** 
+2020-10-09 14:56:26,870 INFO  [Log] Browser Closed! 
+2020-10-09 15:02:45,862 INFO  [Log] ***************************************************** 
+2020-10-09 15:02:45,863 WARN  [Log] This is my warning msg 
+2020-10-09 15:02:45,863 INFO  [Log] Navigating to the site -http://localhost/mantisbt/mantisbt-2.24.1/login_page.php 
+2020-10-09 15:02:46,581 INFO  [Log] Entering username.administrator 
+2020-10-09 15:02:46,664 INFO  [Log] Username entered 
+2020-10-09 15:02:46,664 INFO  [Log] Clicking on Login button 
+2020-10-09 15:02:47,111 INFO  [Log] Login Button clicked 
+2020-10-09 15:02:47,114 INFO  [Log] Entering the password root123 
+2020-10-09 15:02:47,168 INFO  [Log] PAssword Entered 
+2020-10-09 15:02:47,168 INFO  [Log] Clicking on Login button 
+2020-10-09 15:02:48,025 INFO  [Log] Login Button clicked 
+2020-10-09 15:02:48,025 INFO  [Log] ***************************************************** 
+2020-10-09 15:02:48,230 INFO  [Log] Browser Closed! 
+2020-10-09 16:56:35,833 INFO  [Log] ***************************************************** 
+2020-10-09 16:56:35,833 WARN  [Log] This is my warning msg 
+2020-10-09 16:56:35,833 INFO  [Log] Navigating to the site -http://localhost/mantisbt/mantisbt-2.24.1/login_page.php 
+2020-10-09 16:56:36,988 INFO  [Log] Entering username.administrator 
+2020-10-09 16:56:37,106 INFO  [Log] Username entered 
+2020-10-09 16:56:37,107 INFO  [Log] Clicking on Login button 
+2020-10-09 16:56:37,639 INFO  [Log] Login Button clicked 
+2020-10-09 16:56:37,640 INFO  [Log] Entering the password root123 
+2020-10-09 16:56:37,699 INFO  [Log] PAssword Entered 
+2020-10-09 16:56:37,699 INFO  [Log] Clicking on Login button 
+2020-10-09 16:56:38,559 INFO  [Log] Login Button clicked 
+2020-10-09 16:56:38,559 INFO  [Log] ***************************************************** 
+2020-10-09 16:56:38,777 INFO  [Log] Browser Closed! 
+2021-01-28 22:16:13,942 INFO  [Log] ***************************************************** 
+2021-01-28 22:16:13,942 WARN  [Log] This is my warning msg 
+2021-01-28 22:16:13,942 INFO  [Log] Navigating to the site -http://localhost/mantisbt/mantisbt-2.24.1/login_page.php 
+2021-01-28 22:16:16,823 INFO  [Log] Entering username.administrator 
+2021-01-28 22:16:16,968 INFO  [Log] Username entered 
+2021-01-28 22:16:16,968 INFO  [Log] Clicking on Login button 
+2021-01-28 22:16:18,915 INFO  [Log] Login Button clicked 
+2021-01-28 22:16:18,919 INFO  [Log] Entering the password root123 
+2021-01-28 22:16:19,117 INFO  [Log] PAssword Entered 
+2021-01-28 22:16:19,118 INFO  [Log] Clicking on Login button 
+2021-01-28 22:16:23,082 INFO  [Log] Login Button clicked 
+2021-01-28 22:16:23,082 INFO  [Log] ***************************************************** 
+2021-01-28 22:16:23,356 INFO  [Log] Browser Closed! 
+2021-01-29 12:17:31,312 INFO  [Log] ***************************************************** 
+2021-01-29 12:17:31,313 WARN  [Log] This is my warning msg 
+2021-01-29 12:17:31,313 INFO  [Log] Navigating to the site -http://localhost/mantisbt/mantisbt-2.24.1/login_page.php 
+2021-01-29 12:17:33,350 INFO  [Log] Entering username.administrator 
+2021-01-29 12:17:33,475 INFO  [Log] Username entered 
+2021-01-29 12:17:33,475 INFO  [Log] Clicking on Login button 
+2021-01-29 12:17:34,129 INFO  [Log] Login Button clicked 
+2021-01-29 12:17:34,134 INFO  [Log] Entering the password root123 
+2021-01-29 12:17:34,213 INFO  [Log] PAssword Entered 
+2021-01-29 12:17:34,213 INFO  [Log] Clicking on Login button 
+2021-01-29 12:17:35,669 INFO  [Log] Login Button clicked 
+2021-01-29 12:17:35,669 INFO  [Log] ***************************************************** 
+2021-01-29 12:17:36,167 INFO  [Log] Browser Closed! 
+2021-01-29 12:22:18,955 INFO  [Log] ***************************************************** 
+2021-01-29 12:22:18,956 INFO  [Log] **************************************************************************************** 
+2021-01-29 12:22:18,956 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_LoginFeature       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-01-29 12:22:18,956 INFO  [Log] **************************************************************************************** 
+2021-01-29 12:22:18,956 WARN  [Log] This is my warning msg 
+2021-01-29 12:22:18,956 INFO  [Log] Navigating to the site -http://localhost/mantisbt/mantisbt-2.24.1/login_page.php 
+2021-01-29 12:22:20,230 INFO  [Log] Entering username.administrator 
+2021-01-29 12:22:20,349 INFO  [Log] Username entered 
+2021-01-29 12:22:20,349 INFO  [Log] Clicking on Login button 
+2021-01-29 12:22:20,993 INFO  [Log] Login Button clicked 
+2021-01-29 12:22:20,997 INFO  [Log] Entering the password root123 
+2021-01-29 12:22:21,090 INFO  [Log] PAssword Entered 
+2021-01-29 12:22:21,091 INFO  [Log] Clicking on Login button 
+2021-01-29 12:22:22,410 INFO  [Log] Login Button clicked 
+2021-01-29 12:22:22,410 INFO  [Log] ***************************************************** 
+2021-01-29 12:22:22,410 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-01-29 12:22:22,676 INFO  [Log] Browser Closed! 
+2021-02-03 11:21:02,523 INFO  [Log] ***************************************************** 
+2021-02-03 11:21:02,524 INFO  [Log] **************************************************************************************** 
+2021-02-03 11:21:02,524 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_LoginFeature       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2021-02-03 11:21:02,524 INFO  [Log] **************************************************************************************** 
+2021-02-03 11:21:02,524 WARN  [Log] This is my warning msg 
+2021-02-03 11:21:02,524 INFO  [Log] Navigating to the site -http://localhost/mantisbt/mantisbt-2.24.1/login_page.php 
+2021-02-03 11:21:04,749 INFO  [Log] Entering username.administrator 
+2021-02-03 11:21:04,867 INFO  [Log] Username entered 
+2021-02-03 11:21:04,867 INFO  [Log] Clicking on Login button 
+2021-02-03 11:21:05,554 INFO  [Log] Login Button clicked 
+2021-02-03 11:21:05,560 INFO  [Log] Entering the password root123 
+2021-02-03 11:21:05,645 INFO  [Log] PAssword Entered 
+2021-02-03 11:21:05,646 INFO  [Log] Clicking on Login button 
+2021-02-03 11:21:07,273 INFO  [Log] Login Button clicked 
+2021-02-03 11:21:07,273 INFO  [Log] ***************************************************** 
+2021-02-03 11:21:07,273 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-02-03 11:21:07,625 INFO  [Log] Browser Closed! 

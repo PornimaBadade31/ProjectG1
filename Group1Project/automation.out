@@ -1,0 +1,35 @@
+2021-03-16 16:03:635 INFO  AttachmentsTest:37 - Test case 1
+2021-03-16 16:03:234 INFO  AttachmentsTest:45 - Logging In
+2021-03-16 16:03:235 INFO  AttachmentsTest:54 - Reading document path from csv file
+2021-03-16 16:03:399 INFO  AttachmentsTest:57 - .Docx file uploaded
+2021-03-16 16:03:420 INFO  AttachmentsTest:72 - Test case 2
+2021-03-16 16:03:26 INFO  AttachmentsTest:81 - Read data from csv file
+2021-03-16 16:03:26 INFO  AttachmentsTest:85 - uploading txt file
+2021-03-16 16:03:214 INFO  AttachmentsTest:88 - .txt file uploaded
+2021-03-16 16:03:227 INFO  AttachmentsTest:102 - Test case 3
+2021-03-16 16:03:431 INFO  AttachmentsTest:111 - reading file path from csv file
+2021-03-16 16:03:433 INFO  AttachmentsTest:115 - uploading file
+2021-03-16 16:03:67 INFO  AttachmentsTest:132 - Test case 4
+2021-03-16 16:03:504 INFO  AttachmentsTest:37 - Test case 1
+2021-03-16 16:03:888 INFO  AttachmentsTest:45 - Logging In
+2021-03-16 16:03:889 INFO  AttachmentsTest:54 - Reading document path from csv file
+2021-03-16 16:03:61 INFO  AttachmentsTest:57 - .Docx file uploaded
+2021-03-16 16:03:90 INFO  AttachmentsTest:72 - Test case 2
+2021-03-16 16:03:626 INFO  AttachmentsTest:81 - Read data from csv file
+2021-03-16 16:03:627 INFO  AttachmentsTest:85 - uploading txt file
+2021-03-16 16:03:836 INFO  AttachmentsTest:88 - .txt file uploaded
+2021-03-16 16:03:846 INFO  AttachmentsTest:102 - Test case 3
+2021-03-16 16:03:365 INFO  AttachmentsTest:111 - reading file path from csv file
+2021-03-16 16:03:366 INFO  AttachmentsTest:115 - uploading file
+2021-03-16 16:03:586 INFO  AttachmentsTest:118 - .ppt file uploaded
+2021-03-16 16:03:602 INFO  AttachmentsTest:132 - Test case 4
+2021-03-16 16:03:235 INFO  AttachmentsTest:141 - reading file path from csv file
+2021-03-16 16:03:236 INFO  AttachmentsTest:145 - uploading file
+2021-03-16 16:03:483 INFO  AttachmentsTest:148 - .png file uploaded 
+2021-03-16 16:03:123 INFO  AttachmentsTest:37 - Test case 1
+2021-03-16 16:03:62 INFO  AttachmentsTest:45 - Logging In
+2021-03-16 16:03:66 INFO  AttachmentsTest:54 - Reading document path from csv file
+2021-03-16 16:03:684 INFO  AttachmentsTest:57 - .Docx file uploaded
+2021-03-16 16:03:707 INFO  AttachmentsTest:72 - Test case 2
+2021-03-16 16:03:869 INFO  AttachmentsTest:81 - Read data from csv file
+2021-03-16 16:03:870 INFO  AttachmentsTest:85 - uploading txt file

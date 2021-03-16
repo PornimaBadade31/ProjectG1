@@ -1,0 +1,106 @@
+package com.test;
+
+import java.awt.AWTException;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.List;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.PageFactory;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
+
+import com.opencsv.CSVReader;
+import com.page.AttachmentsPage;
+
+public class AttachmentsTest {
+	 static WebDriver driver;
+
+  @Test
+  public void TC1()
+  {
+	  //AttachmentsPage p1=new AttachmentsPage(driver);
+
+      AttachmentsPage p1=PageFactory.initElements(driver, AttachmentsPage.class);
+
+	  p1.OpenURL("https://snoopy.qatouch.com/project/attachment/p/vEPp");
+	  String file1="./TestData/DocumentPath.csv";
+	  CSVReader reader1;
+	  try {
+		p1.login();
+		//p1.openattAchmentpage();
+
+	} catch (InterruptedException e1) {
+		// TODO Auto-generated catch block
+		e1.printStackTrace();
+	}
+	try {
+		reader1 = new CSVReader(new FileReader(file1));
+		 List<String[]> r = reader1.readAll();
+		 p1.upload(r.get(2)[0].toString(),r.get(2)[1].toString());
+		 Thread.sleep(2000);
+		 //p1.logout();
+
+	} catch (IOException | AWTException | InterruptedException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
+  }
+  
+  @Test
+  public void TC2()
+  {
+	  //AttachmentsPage p1=new AttachmentsPage(driver);
+
+      AttachmentsPage p1=PageFactory.initElements(driver, AttachmentsPage.class);
+
+	  p1.OpenURL("https://snoopy.qatouch.com/project/attachment/p/vEPp");
+	  String file1="./TestData/DocumentPath.csv";
+	  CSVReader reader1;
+	  try {
+		p1.login();
+		//p1.openattAchmentpage();
+
+	} catch (InterruptedException e1) {
+		// TODO Auto-generated catch block
+		e1.printStackTrace();
+	}
+	try {
+		reader1 = new CSVReader(new FileReader(file1));
+		 List<String[]> r = reader1.readAll();
+		 p1.upload(r.get(1)[0].toString(),r.get(1)[1].toString());
+		 Thread.sleep(2000);
+		 //p1.logout();
+
+	} catch (IOException | AWTException | InterruptedException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
+  }
+  @Parameters({ "driver_path" })
+	@BeforeSuite
+	 public void beforeSuite(String driver_path) {
+	      System.setProperty("webdriver.chrome.driver", driver_path);
+	       driver = new ChromeDriver();
+
+	       
+	  }
+
+	  @AfterSuite
+	  public void afterSuite() {
+	      driver.close();
+	  }
+
+  
+  
+}
