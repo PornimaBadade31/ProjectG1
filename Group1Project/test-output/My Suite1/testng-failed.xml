@@ -2,17 +2,23 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [My Suite1]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
+    <parameter name="attachmeturl" value="https://dobby.qatouch.com/project/attachment/p/NgZv"/>
     <parameter name="browser" value="Chrome"/>
-    <parameter name="url" value="https://snoopy.qatouch.com/project/attachment/p/vEPp"/>
-    <parameter name="driver_path" value="C:\\Users\\HP\\Documents\\chromedriver.exe"/>
+    <parameter name="AutoIT" value="./AutoIT/upload4.exe"/>
+    <parameter name="boardurl" value="https://dobby.qatouch.com/boards#/list"/>
+    <parameter name="Reportsurl" value="https://dobby.qatouch.com/managerialreport"/>
+    <parameter name="driver_path" value="./ChromeDriver/chromedriver.exe"/>
     <classes>
-      <class name="com.test.AttachmentsTest">
+      <class name="com.test.BoardTest">
         <methods>
-          <include name="beforeSuite"/>
           <include name="afterSuite"/>
+          <include name="beforeSuite"/>
           <include name="TC2"/>
+          <include name="getlogger"/>
+          <include name="TC1"/>
+          <include name="TC3"/>
         </methods>
-      </class> <!-- com.test.AttachmentsTest -->
+      </class> <!-- com.test.BoardTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [My Suite1] -->

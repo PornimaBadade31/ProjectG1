@@ -33,3 +33,34 @@
 2021-03-16 16:03:707 INFO  AttachmentsTest:72 - Test case 2
 2021-03-16 16:03:869 INFO  AttachmentsTest:81 - Read data from csv file
 2021-03-16 16:03:870 INFO  AttachmentsTest:85 - uploading txt file
+2021-03-17 10:03:610 INFO  BoardTest:47 - Board Test case 2
+2021-03-17 10:03:917 INFO  BoardTest:53 - opening boards list
+2021-03-17 10:03:106 INFO  BoardTest:55 - adding board
+2021-03-17 10:03:237 INFO  BoardTest:47 - Board Test case 2
+2021-03-17 10:03:55 INFO  BoardTest:53 - opening boards list
+2021-03-17 10:03:309 INFO  BoardTest:55 - adding board
+2021-03-17 10:03:835 INFO  BoardTest:47 - Board Test case 2
+2021-03-17 10:03:965 INFO  BoardTest:53 - opening boards list
+2021-03-17 10:03:169 INFO  BoardTest:55 - adding board
+2021-03-17 10:03:92 INFO  BoardTest:47 - Board Test case 2
+2021-03-17 10:03:197 INFO  BoardTest:53 - opening boards list
+2021-03-17 10:03:418 INFO  BoardTest:55 - adding board
+2021-03-17 10:03:991 INFO  BoardTest:70 - Board Test case 2
+2021-03-17 10:03:867 INFO  BoardTest:76 - opening boards list
+2021-03-17 10:03:156 INFO  BoardTest:78 - Deleting board
+2021-03-17 10:03:802 INFO  BoardTest:70 - Board Test case 2
+2021-03-17 10:03:49 INFO  BoardTest:76 - opening boards list
+2021-03-17 10:03:283 INFO  BoardTest:78 - Deleting board
+2021-03-17 10:03:08 INFO  BoardTest:70 - Board Test case 2
+2021-03-17 10:03:537 INFO  BoardTest:76 - opening boards list
+2021-03-17 10:03:734 INFO  BoardTest:78 - Deleting board
+2021-03-17 10:03:202 INFO  BoardTest:47 - Board Test case 2
+2021-03-17 10:03:263 INFO  BoardTest:53 - opening boards list
+2021-03-17 10:03:438 INFO  BoardTest:55 - Editing board
+2021-03-17 10:03:08 INFO  BoardTest:70 - Board Test case 2
+2021-03-17 10:03:792 INFO  BoardTest:25 - Board Test case 1 
+2021-03-17 11:03:124 INFO  BoardTest:26 - Board Test case 1 
+2021-03-17 11:03:665 INFO  BoardTest:32 - opening boards list
+2021-03-17 11:03:881 INFO  BoardTest:34 - adding board
+2021-03-17 11:03:247 INFO  BoardTest:48 - Board Test case 2
+2021-03-17 11:03:397 INFO  BoardTest:71 - Board Test case 2

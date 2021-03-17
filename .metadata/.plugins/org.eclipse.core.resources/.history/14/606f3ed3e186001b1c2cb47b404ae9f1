@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite parallel="false" name="My Suite1">
+  <test name="Test">
+  	<parameter name="browser" value="Chrome"/>
+	<parameter name="attachmeturl" value="https://dobby.qatouch.com/project/attachment/p/NgZv"/>
+	<parameter name="Reportsurl" value="https://dobby.qatouch.com/managerialreport"/>
+	<parameter name="driver_path" value="./ChromeDriver/chromedriver.exe"/>
+	<parameter name="boardurl" value="https://dobby.qatouch.com/boards#/list"/>
+	<parameter name="AutoIT" value="./AutoIT/upload4.exe"/>
+	
+    <classes>
+     <!-- <class name="com.test.AttachmentsTest"/> -->
+    <!-- Suite  <class name="com.test.ManageralReportTest"/> -->
+    <class name="com.test.BoardTest"/>
+      
+    </classes>
+  </test>   
+</suite> 

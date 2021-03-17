@@ -3,7 +3,7 @@
     <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Group1Project"/>
     <listAttribute key="org.testng.eclipse.SUITE_TEST_LIST">
-        <listEntry value="C:\Users\HP\Documents\persi eltp\ProjectG1\Group1Project\src\TestNg.xml"/>
+        <listEntry value="C:\Users\HP\Documents\ProjectG1\Group1Project\src\TestNg.xml"/>
     </listAttribute>
     <intAttribute key="org.testng.eclipse.TYPE" value="3"/>
 </launchConfiguration>

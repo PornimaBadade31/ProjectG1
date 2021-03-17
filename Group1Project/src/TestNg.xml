@@ -10,9 +10,10 @@
 	<parameter name="AutoIT" value="./AutoIT/upload4.exe"/>
 	
     <classes>
-      <class name="com.test.AttachmentsTest"/>
-      <class name="com.test.ManageralReportTest"/>
+     <!-- <class name="com.test.AttachmentsTest"/> -->
+    <!-- Suite  <class name="com.test.ManageralReportTest"/> -->
+    <class name="com.test.BoardTest"/>
       
     </classes>
-  </test> <!--  Test -->
-</suite> <!-- Suite -->
+  </test>   
+</suite> 

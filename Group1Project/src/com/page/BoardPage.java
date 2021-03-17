@@ -2,6 +2,7 @@ package com.page;
 
 import java.util.List;
 
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -20,11 +21,30 @@ public class BoardPage {
 	@FindBy(xpath="//div[@class='multiselect__tags']")
 	private static List<WebElement> select_project;
 
+	@FindBy(xpath="//a[@title='Edit']")
+	private static WebElement editBtn;
+	
 
+	@FindBy(xpath="//button[@class='btn logo-green-bg']")
+	private static WebElement updatebtn;
+	
 	@FindBy(id="name")
 	private static WebElement  name;
 
+	@FindBy(xpath="//div[@class='board-card-body']")
+	private static WebElement cardbodydiv;
+	
+	@FindBy(xpath="//input[@title='Board Name']")
+	private static WebElement editName;
 
+	
+	@FindBy(xpath="//button[@class='swal-button swal-button--confirm swal-button--danger']")
+	private static WebElement okbtn;
+
+	@FindBy(xpath="//a[@title='Delete']")
+	private static WebElement deletebtn;
+	
+	
 	@FindBy(xpath="//span[contains(text(), \"Demo\")]")
 	private static WebElement  selectdemo;
 
@@ -76,9 +96,46 @@ public class BoardPage {
 			e.printStackTrace();
 		}
 	}
+	public void editBoard()
+	{
+		editBtn.click();
+		try {
+			Thread.sleep(3000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		editName.clear();
+		editName.sendKeys("Pornima"+Keys.ENTER);
+		updatebtn.click();
+		if(cardbodydiv.getText().contains("Pornima"))
+		{
+			System.out.println("updated sucessfully");
+		}
+		else
+		{
+			System.out.println("Update unsuccessful");
+		}
+		
+	}
 	public void deleteBoard()
 	{
-
+		try {
+			deletebtn.click();
+			Thread.sleep(3000);
+			okbtn.click();
+			if(cardbodydiv.getText().contains("Pornima"))
+			{
+				System.out.println("delete unsuccessful");
+			}
+			else
+			{
+				System.out.println("delete successful");
+			}
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 
 }

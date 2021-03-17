@@ -8,6 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
@@ -21,8 +22,8 @@ public class BoardTest {
 	private static Logger logger = Logger.getLogger(BoardTest.class.getName());
 	@Parameters({ "boardurl" })
 	@Test
-	public void f(String boardurl) {
-		logger.info("Board Test case");
+	public void TC1(String boardurl) {
+		logger.info("Board Test case 1 ");
 		try {
 			BoardPage p2=PageFactory.initElements(driver, BoardPage.class);
 			AttachmentsPage p3=PageFactory.initElements(driver, AttachmentsPage.class);
@@ -40,6 +41,48 @@ public class BoardTest {
 		}
 
 	}
+	
+	@Parameters({ "boardurl" })
+	@Test
+	public void TC2(String boardurl) {
+		logger.info("Board Test case 2");
+		try {
+			BoardPage p3=PageFactory.initElements(driver, BoardPage.class);
+			AttachmentsPage p4=PageFactory.initElements(driver, AttachmentsPage.class);
+			logger.info("opening boards list");
+			logger.info("Editing board");
+			Thread.sleep(4000);
+			p3.editBoard();
+
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	}
+	
+	
+	@Parameters({ "boardurl" })
+	@Test
+	public void TC3(String boardurl) {
+		logger.info("Board Test case 2");
+		try {
+			BoardPage p2=PageFactory.initElements(driver, BoardPage.class);
+			AttachmentsPage p3=PageFactory.initElements(driver, AttachmentsPage.class);
+			p2.OpenURL(boardurl);
+			p3.login();
+			logger.info("opening boards list");
+			p3.OpenURL(boardurl);
+			logger.info("Deleting board");
+			Thread.sleep(4000);
+			p2.deleteBoard();
+
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	}	
 	@BeforeClass
 	public static void getlogger()
 	{
